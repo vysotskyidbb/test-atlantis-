@@ -15,3 +15,4 @@ output "uuid" {
   value       = random_uuid.uuid.result
   sensitive   = false
 }
+
